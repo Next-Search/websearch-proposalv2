@@ -13,6 +13,14 @@ We believe that a search engine company could ensure it operated for the public 
 5. Setting constraints on the compensation available to management based on the compensation to the lowest paid employee.
 6. Committing to the long-term holding of the search engine and not an attempt to grow and sell.\[3\]
 
+In addition to behaving well as an organization we believe there would be tangible benefits from a search engine such as we are proposing. For example:
+
+1. Returning quality results improves the productivity of individuals seeking to make the world a better place.
+2. Using our algorithm we will be able to significantly reduce the quantity of bad actors able to rank in our results over traditional search engines. This will help keep all of us safer, especially those who may be most vulnerable to deception.
+3. By providing tools that can be used in research generally, including by academia, to expedite projects and ensure higher quality output.
+4. By providing an opportunity for \(some\) income generation to all individuals.
+5. By modeling a corporate culture which emphasizes employee care, customer service, and social responsibility.
+
 ## Footnotes
 
 \[1\] Organizations we would love to have \(but that have not been asked nor offered any endorsement to this project\) as part of that oversight committee might include: Mozilla Foundation, Creative Commons, Internet Archive, W3C, IETF. That is not to say we wouldn't also welcome involvement from commercial organizations, input from companies like Microsoft,  Google, IBM, etc. could be invaluable.  
